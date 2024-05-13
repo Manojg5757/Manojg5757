@@ -11,10 +11,7 @@ Looking for a Web Developer Role
 - 😄 Pronouns: Techie
 
 ### I code in
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/html-5--v2.png" alt="html-5--v2"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/bubbles/50/react.png" alt="react"/>
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/html-5--v2.png" alt="html-5--v2"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/><img width="50" height="50" src="https://img.icons8.com/bubbles/50/react.png" alt="react"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
