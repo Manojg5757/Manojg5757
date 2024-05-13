@@ -25,6 +25,6 @@ Looking for a Web Developer Role
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Manojg5757=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manojg5757)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manojg5757&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=9f3232&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
